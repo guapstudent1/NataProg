@@ -1,5 +1,5 @@
 # NataProg
 AVR simple tool
 
-##Build
+## Build
 msbuild NataProg.vcxproj /p:configuration=Debug
